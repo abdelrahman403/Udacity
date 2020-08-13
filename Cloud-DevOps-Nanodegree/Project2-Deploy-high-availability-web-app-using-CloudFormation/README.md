@@ -1,4 +1,4 @@
-#Project2-Deploy-high-availability-web-app-using-CloudFormation
+# Project2-Deploy-high-availability-web-app-CloudFormation
 
 ## Get the application up & running:
 
